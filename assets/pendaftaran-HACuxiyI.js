@@ -1,2 +1,0 @@
-import{j as m}from"./reachHideWarning-De11BrXT.js";import{W as p}from"./WebApp-6_hNB4Z9.js";import{m as t}from"./mountApp-BdA-2ntV.js";import"./user-24jyZNwf.js";import"./getBlocksReadingTime-z1d_jvJA.js";import"./index-DSNB1Zz4.js";import"./MBeritaRo-B0J3Uo6b.js";import"./BannerCrumb-CSInnlkd.js";import"./slugify-CtJJmimd.js";import"./MProdukRo-BglhG7R-.js";import"./BeritaMainContent-CjZsHA90.js";t(m.jsx(p,{template:"pendaftaran"}));
-//# sourceMappingURL=pendaftaran-HACuxiyI.js.map

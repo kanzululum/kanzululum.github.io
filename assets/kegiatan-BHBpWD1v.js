@@ -1,0 +1,2 @@
+import{j as m}from"./reachHideWarning-CyBptXww.js";import{W as p}from"./WebApp-Bhe2ip-4.js";import{m as t}from"./mountApp-lPpdDZgA.js";import"./DrizzleModelRo-56pWaJy5.js";import"./user-BhV8jmel.js";import"./send-CwKz-4dL.js";import"./MBeritaRo-CgQj8ues.js";import"./BannerCrumb-BdFZZP3q.js";import"./slugify-CtJJmimd.js";import"./MProdukRo-Dgwrn4Hr.js";import"./BeritaMainContent-Dx46kK-T.js";t(m.jsx(p,{template:"kegiatan"}));
+//# sourceMappingURL=kegiatan-BHBpWD1v.js.map
