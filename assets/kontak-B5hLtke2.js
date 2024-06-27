@@ -1,2 +1,0 @@
-import{j as m}from"./reachHideWarning-IEH7Dx1O.js";import{W as o}from"./WebApp-DEafn5el.js";import{m as p}from"./mountApp-i9mf4gEb.js";import"./user-CPsLnqEq.js";import"./getBlocksReadingTime-Dto5agJ7.js";import"./index-BqOS3TTq.js";import"./MBeritaRo-05IBDGs8.js";import"./BannerCrumb-CpdsY4-T.js";import"./slugify-CtJJmimd.js";import"./MProdukRo-C0NSDZvP.js";import"./BeritaMainContent-DElKUCj9.js";p(m.jsx(o,{template:"kontak"}));
-//# sourceMappingURL=kontak-B5hLtke2.js.map
